@@ -1,6 +1,6 @@
 {
   "title": "Hsin yu",
-  "url": "https://creative-cat-e49b95.netlify.app",
+  "url": "https://dogwantfly.netlify.app",
   "domain": "dogwantfly.com",
   "description": "Blog",
   "genre": "Insert a schema.org genre",
@@ -10,7 +10,7 @@
     "subtitle": "",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://creative-cat-e49b95.netlify.app/"
+    "id": "https://dogwantfly.netlify.app"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
