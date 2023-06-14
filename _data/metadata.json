@@ -1,0 +1,26 @@
+{
+  "title": "Hsin yu",
+  "url": "https://creative-cat-e49b95.netlify.app",
+  "domain": "dogwantfly.com",
+  "description": "Blog",
+  "genre": "Insert a schema.org genre",
+  "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
+  "sendWebVitals": false,
+  "feed": {
+    "subtitle": "",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://creative-cat-e49b95.netlify.app/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://update-me.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Hsin yu",
+    "twitterHandle": ""
+  },
+  "publisher": {
+    "name": ""
+  }
+}
